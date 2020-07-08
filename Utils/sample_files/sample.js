@@ -1,0 +1,1 @@
+var a = 1; let b = "hello world"; var c="hello world"; c="Ignore this"; var varia="test2", let d = "test demo";
